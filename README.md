@@ -83,18 +83,3 @@ Example POST body:
 }
 ```
 
-## Push it to GitHub
-
-Create an empty repository on GitHub, then from this project folder run:
-
-```bash
-git init
-git add .
-git commit -m "Build FocusFlow React and Django task tracker"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/focusflow.git
-git push -u origin main
-```
-
-Replace the remote URL with your own repository URL.
-
