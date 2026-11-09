@@ -74,6 +74,9 @@ Open the local URL printed by Vite (usually `http://localhost:5173`).
 | PATCH | `/api/tasks/<id>/` | Update task fields |
 | DELETE | `/api/tasks/<id>/` | Delete a task |
 
+<img width="1779" height="871" alt="image" src="https://github.com/user-attachments/assets/2bd0c43a-5d9a-45b2-baee-1018e32c26b7" />
+
+
 Example POST body:
 ```json
 {
