@@ -5,7 +5,7 @@ A beginner-friendly full-stack project with a polished dashboard. Add tasks, mar
 ## Tech stack
 - **Frontend:** React, Vite, plain CSS
 - **Backend:** Python, Django, Django REST Framework
-- **Database:** SQLite (created automatically by Django)
+- **Database:** SQLite
 
 ## Features
 - Create, complete, and delete tasks
